@@ -1,0 +1,52 @@
+1. Write code of Function and Class based Decorators?
+2. Write code Exception handling?
+3. Can we use raise keyword in try block? what will happen?
+4. assert keyword in python
+5. Write code of setter and getter?
+6. Difference between List, Tuple and Dictionary.
+7. How to test API?--Can you write a python script to test API
+8. Security provided by Django
+9. Flask vs Django
+10. Key of dictionary is mutable or not? why? 
+11. project related questions--What is project about? What is your role? 
+12. How to change values in html page without reloading of page?
+13. Difference between Private and Protected variable? Their syntax.
+14. Git commands?
+15. What is agile?
+16. What is Router events?
+16. What is docker?
+17. MVC vs MVT?
+18. Do you know about jira?
+19. Error vs Exception
+20. Mysql and Postgresql difference.
+21. Queries related to alter, between, order by
+22. Write program of PDBC?
+23. Write program of SQLALCHEMY?
+24. create a dictionary from two list    input---->l1 = [1,2,3]
+					 	   l2 = ['one','two','three']
+					 output---> d = {1:'one',2:'two',3:'three'}
+25. Write a component from angular
+26. Where do you have used OOPs concepts in your project?
+27. What is inheritance? types?
+28. What is encapsulation?
+29. What is services in angular?
+30. What is dependency injection?
+31. Middleware related questions
+32. Write django code for creating user registration form--models.py , forms.py and views.py
+33. Steps to create an app in django
+34. How to use multiple databases in django?
+35. Why do you have used Mysql database in your project?
+36. Asked some ORM queries like descending order, greater than 
+37. Logical programs for finding unique values, copy list, reverse list,fibonacci series--without in-built        	functions
+38. Type casting from int to string and viceversa.Also list to tuple and viceversa--possible or not 
+39. Some Basic questions about python--what is dynamically typed? How to declare variable in python, class declaration
+40. Write a code of Constructor and destructor?
+41. What is singleton?
+42. What is eval?
+43. What is pagination?
+44. Implicite and explicite
+45. Loggers
+46. pip - package installer for python
+
+
+
